@@ -1,1 +1,1 @@
-This is a repository for all our printf project
+This is a repository containing all printf project files
